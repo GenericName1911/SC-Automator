@@ -2,12 +2,11 @@
 
 After weeks of work, I present to you, SC Automator! This tool uses [SC-Compression by Vorono4ka](https://github.com/danila-schelkov/sc-compression) and [SC2FLA by Daniil-SV](https://github.com/Daniil-SV/) to automate CSV & TOML decryption and SC & SCTX conversion of Supercell's game files. Generally used as a support for modding and datamining.
 
+# INSTRUCTIONS AND PREREQUISITES:
 
-INSTRUCTIONS AND PREREQUISITES:
-DO NOT MOVE, RENAME OR DELETE ANY FOLDER OR THEIR SUBFOLDERS.
-YOU NEED A MINIMUM OF 1GB RAM.
-PYTHON MUST BE ADDED TO PATH ENVIRONMENT.
-
+**DO NOT MOVE, RENAME OR DELETE ANY FOLDER OR THEIR SUBFOLDERS.**
+**A MINIMUM OF 1GB RAM IS REQUIRED.**
+**PYTHON MUST BE ADDED TO PATH ENVIRONMENT.**
 
 Step 1: Install Python 3.10+. DURING INSTALLATION, SELECT "ADD TO PATH"
 
