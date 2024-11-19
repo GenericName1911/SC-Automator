@@ -25,3 +25,5 @@ Step 7: Wait for everything to get converted/decompressed (May take upto an hour
 Step 8: Run `%CleanUp.bat` to free storage/perform a full reset.
 
 This is my first project. For any errors, feedback, or help, feel free to message me anytime on discord. UID: @generic_name_1911
+
+*This repository is under GNU General Public License Version 3.*
