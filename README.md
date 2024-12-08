@@ -1,3 +1,9 @@
+--------------------------------------------------------
+# ARCHIVED
+**This entire project will be rewritten in Python along with support for sc2.**
+--------------------------------------------------------
+
+
 # SC-Automator
 
 After weeks of work, I present to you, SC Automator! This tool uses [SC-Compression by Vorono4ka](https://github.com/danila-schelkov/sc-compression) and [SC2FLA by Daniil-SV](https://github.com/Daniil-SV/) to automate CSV & TOML decryption and SC & SCTX conversion of Supercell's game files. Generally used as a support for modding and datamining.
