@@ -1,14 +1,17 @@
 --------------------------------------------------------
-# ARCHIVED
-**This entire project will be rewritten in Python along with support for sc2.**
+# UPDATE
+**This project has been discontinued. It remains functional for legacy SC formats, and supports most CSV and TOML files.**
+**For actively maintained tools, refer to:**
+- **[SC2FLA-FOSS-Edition](https://github.com/GenericName1911/SC2FLA-FOSS-Edition)** (SC to FLA Converter with SC2 Downgarde Support)
+- **[SC-UnZip](https://github.com/GenericName1911/SC-UnZip)** (CSV and TOML Decompressor) 
 --------------------------------------------------------
 
 
-# SC-Automator
+## SC-Automator
 
 After weeks of work, I present to you, SC Automator! This tool uses [SC-Compression by Vorono4ka](https://github.com/danila-schelkov/sc-compression) and [SC2FLA by Daniil-SV](https://github.com/Daniil-SV/) to automate CSV & TOML decryption and SC & SCTX conversion of Supercell's game files. Generally used as a support for modding and datamining.
 
-# INSTRUCTIONS AND PREREQUISITES:
+## INSTRUCTIONS AND PREREQUISITES:
 
 **DO NOT MOVE, RENAME OR DELETE ANY FOLDER OR THEIR SUBFOLDERS.**
 **A MINIMUM OF 1GB RAM IS REQUIRED.**
