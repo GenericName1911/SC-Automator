@@ -3,7 +3,7 @@
 **This project has been discontinued. It remains functional for legacy SC formats, and supports most CSV and TOML files.**
 **For actively maintained tools, refer to:**
 - **[SC2FLA-FOSS-Edition](https://github.com/GenericName1911/SC2FLA-FOSS-Edition)** (SC to FLA Converter with SC2 Downgarde Support)
-- **[SC-UnZip](https://github.com/GenericName1911/SC-UnZip)** (CSV and TOML Decompressor) 
+- **[SC-Zip-Tools](https://github.com/GenericName1911/SC-Zip-Tools)** (CSV and TOML Compressor/Decompressor) 
 --------------------------------------------------------
 
 
